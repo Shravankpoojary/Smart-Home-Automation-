@@ -44,6 +44,9 @@ We used the [MQTT IoT Panel](https://play.google.com/store/apps/details?id=snr.l
 3. Create panels for each sensor or actuator
 4. Subscribe/publish to relevant MQTT topics used in the NodeMCU code
 
+For more details about MQTT IOT Panel APP ,you can find resouces in yotube 
+https://youtu.be/DJV2iRtZBKc?si=mzTglI7-XfU_C-my
+
 Hardware Requirements:
 🔌 Microcontrollers & Processing Units
 - NodeMCU ESP8266: Central controller for sensors and actuators, communicates via MQTT over Wi-Fi.
@@ -70,4 +73,11 @@ Hardware Requirements:
 - PCB (for permanent circuit setup)
 - SIM card (for GSM module)[SIM800L Module]
 
+Final System Snapshot-
+<img width="932" height="819" alt="image" src="https://github.com/user-attachments/assets/71a08f5f-8faa-453c-a8b0-4f9031d094fc" />
 
+User Interface of MQTT IOT Panel APP Snapshot-
+<img width="478" height="1109" alt="image" src="https://github.com/user-attachments/assets/12ecac37-da31-44b7-8821-ddbeda6bf641" />
+
+The below Link contains complete working of proposed System uploaded in Linkedin Platform
+https://www.linkedin.com/posts/shravan-k-poojary_esp8266-mqtt-iotdevelopment-activity-7291805551091400704-qkn5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEPmrFIBub-IOYlbFXlMHDWjRCAxiuouV_c
